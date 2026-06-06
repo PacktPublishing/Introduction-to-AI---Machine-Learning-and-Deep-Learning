@@ -1,0 +1,25 @@
+1.  20, 20, 60 is a good split for Train, Validate and Test respectively (A) True
+(B) False
+
+Answer: B 
+2. The best way to avoid getting stuck in local minima is to increase the batch size. (A) True
+(B) False
+
+Answer: B
+
+3. When a model is overfitting it has high variance. (A) True
+(B) False
+
+Answer: A 
+4. When a very high learning rate is used, a model can (A) generate more errors
+(B) learn much faster
+(C) settle in a local minimum
+(D) run the risk of overshooting the minimum
+	
+Answer: D 
+5. Increasing regularization can help in reducing (A) underfitting
+(B) overshooting
+(C) overfitting
+(D) mean square errors
+
+Answer: C

@@ -1,0 +1,36 @@
+1.  A sigmoid function 
+(A) Ranges from -1 to +1 and is differentiable at all points
+(B) Ranges from 0 to 1 and is differentiable at all points
+(C) Ranges from -1 to +1 and is not differentiable at x = 0
+(D) Ranges from 0 to +1 and is not differentiable at x = 0
+
+Answer: B
+
+2.  A hyperbolic tangent function 
+(A) Ranges from -1 to 1 and is differentiable throughout
+(B) Ranges from 0 to 1 and is differentiable throughout
+(C) Ranges from -1 to 1 and is not differentiable at x = 0
+(D) Ranges from 0 to 1 and is not differentiable at x = 0
+
+Answer: A
+
+3.  A step function that ranges from -1 to 1
+(A) is differentiable at all points
+(B) is not differentiable at x = 0
+(C) is used for binary classification problems
+(D) is better than a sigmoid function or hyperbolic tan function as it is easy to compute
+
+Answer: B
+
+4. The function y = x for x >=0; y = x / 10 for x < 0 is an example of
+(A) Step function
+(B) RELU function
+(C) Leaky RELU function
+(D) Linear function 
+Answer: C
+
+
+5.  A linear function of a linear function is always a linear function (A) True
+(B) False
+
+Answer: A

@@ -1,0 +1,39 @@
+1. A neural network for image classification uses as input, an image of 16 x 16 pixels, which is flattened to an input vector of 256 elements. In the first hidden layer, there are 128 nodes. In each node, what is the shape of w?
+(A) 16x16
+(B) 1x256
+(C) 1x1
+(D) 256 Answer: B
+
+2. A neural network for image classification uses as input, an image of 16 x 16 pixels, which is flattened to an input vector of 256 elements. In the first hidden layer, there are 128 nodes. In each node, what is the shape of b?
+(A) 1x1
+(B) 1x128
+(C) 1x256
+(D) 1x16
+Answer: A 
+3.  The function that is most commonly used in each node is _________.
+(A) Linear
+(B) Sigmoid
+(C) ReLU
+(D) Quadratic Cost function
+Answer: C
+ 
+4. Which is not a solution for avoiding overfitting in Neural Networks?
+(A) Dropout
+(B) L2 Regularization
+(C) Softmax
+(D) Reduce Layers
+Answer: C
+ 
+5. ______ helps a neural network do multi-class classification.
+(A) Regularization
+(B) Sigmoid function
+(C) Softmax
+(D) Leaky ReLU
+Answer: C
+ 
+6. ________ is a technique that reduces the coefficients of the weights but does not make them go to zero
+(A) L1
+(B) L2
+(C) L3
+(D) L4
+Answer: B

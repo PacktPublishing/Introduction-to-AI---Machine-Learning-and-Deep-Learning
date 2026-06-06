@@ -1,0 +1,41 @@
+1. The IBM Computer that beat the world chess champion was called
+(A) Deep Red
+(B) Deep Blue
+(C) Invincible
+(D) The Champ
+
+Answer: B
+
+2.  The test to identify a computer from a human is called 
+(A) Fermat's test
+(B) Einstein's Special Relativity
+(C) Turing Test
+(D) Descartes Principle
+
+Answer: C
+
+3. Which is NOT a reason why we are seeing the rise of AI today?
+
+(A) More data
+(B) Powerful processors
+(C) Cheaper storage
+(D) Humans are getting smarter
+
+Answer: D
+
+
+4.  Machine learning refers to the way programmers create the rules for machines to execute 
+(A) True
+(B) False
+
+Answer: B
+
+
+5.  The observation that the number of transistors on an integrated circuit doubles every two years is attributed to
+
+(A) Elon Musk
+(B) Gordon Moore
+(C) Isaac Newton
+(D) Jeff Bezos
+
+Answer: B

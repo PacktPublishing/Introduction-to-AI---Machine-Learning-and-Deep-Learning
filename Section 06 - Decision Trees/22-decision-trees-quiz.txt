@@ -1,0 +1,29 @@
+1. A diabetes model prediction algorithm using XGBoost has the following features: A1Score (Numeric), Weight (Numeric), IsObese (Yes/No) and the following output IsDiabetic (Yes/No). Do we need to Scale the numeric features?
+(A) Yes
+(B) No
+Answer: B 
+2. A diabetes model prediction algorithm using XGBoost has the following features: A1Score (Numeric), Weight (Numeric), IsObese (Yes/No) and the following output IsDiabetic (Yes/No). Do we need to One hot encode the categorical features?
+(A) Yes
+(B) No
+Answer: B 
+3. A diabetes model prediction algorithm using XGBoost has the following features: A1Score (Numeric), Weight (Numeric), IsObese (Yes/No) and the following output IsDiabetic (Yes/No). Do we need to Convert IsObese to numeric 1 / 0 ?
+(A) Yes
+(B) No
+Answer: A 
+4. Which ensemble method performs computation in parallel?
+(A) Boosting
+(B) Bagging
+Answer: B 
+5. Decision tree model is not suitable for non linear functions.
+(A) True
+(B) False Answer: B
+	
+6. Which is true of decision trees?
+(A) One tree has better predictive power than multiple trees
+(B) Works very well if new data introduced is outside the training range
+(C) Not easy to understand how an ensemble of trees makes a decision
+(D) XGBOOST is an ensemble approach that uses bagging
+Answer: C 
+
+
+

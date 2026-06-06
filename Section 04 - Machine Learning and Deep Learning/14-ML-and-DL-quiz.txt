@@ -1,0 +1,31 @@
+1. Identify whether you would use supervised, unsupervised or semi supervised learning. You have lots of labeled data that you wish to train the model with. 
+(A) Supervised
+(B) Unsupervised
+(C) Semi Supervised
+
+Answer: A 
+2. Identify whether you would use supervised, unsupervised or semi supervised learning. You would like to identify patterns in data but do not know what you are looking for. 
+(A) Supervised
+(B) Unsupervised
+(C) Semi Supervised
+
+Answer: B 
+3. Identify whether you would use supervised, unsupervised or semi supervised learning. You want to train the model by minimizing the error between predicted outputs and labeled values 
+(A) Supervised
+(B) Unsupervised
+(C) Semi Supervised
+	
+Answer: A 
+4. Identify whether you would use supervised, unsupervised or semi supervised learning. You want to reduce the number of features in your input data, but do not know which features are important. 
+(A) Supervised
+(B) Unsupervised
+(C) Semi Supervised
+	
+Answer: B 
+5. Identify whether you would use supervised, unsupervised or semi supervised learning. You want to use a tree based approach to classify input into one of 10 different categories
+
+(A) Supervised
+(B) Unsupervised
+(C) Semi Supervised
+
+Answer: A

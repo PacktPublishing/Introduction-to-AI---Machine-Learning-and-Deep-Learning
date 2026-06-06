@@ -1,0 +1,32 @@
+1.  What is the best way to impute a missing row in time series data? (A) Mean, median or mode
+(B) Forward fill or backward fill
+(C) Eliminate rows
+(D) Impute using AI
+
+Answer: B 
+2.  _________ is used for time series forecasting
+(A) XGBoost
+(B) ARIMA
+(C) LDA
+(D) PCA 
+Answer: B
+
+3.  It is good to shuffle the time series data before training.
+(A) True
+(B) False
+
+Answer: B 
+4. The speed and height of an aircraft are _______________ variables.
+(A) Discrete
+(B) Continuous
+(C) Categorical
+(D) Ordinal
+
+Answer: B 
+5. The favorability rating for a movie (1 – 5 stars) is a/an __________ variable.
+(A) Categorical
+(B) Continuous
+(C) Discrete
+(D) Ordinal
+
+Answer: D

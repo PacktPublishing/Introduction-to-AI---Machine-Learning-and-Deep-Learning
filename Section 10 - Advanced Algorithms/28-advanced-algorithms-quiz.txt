@@ -1,0 +1,19 @@
+1.  You have a data set with 5 features – x, x2, x3, x4, x5. You run this through PCA to reduce the number of features. What is the best reduction you can hope to get, i.e. how many features can PCA reduce this to?
+(A) 4
+(B) 3
+(C) 2
+(D) 1 Answer: D
+
+2. What is not a reason to reduce the number of features while training?
+(A) Too many features can increase training cost
+(B) Too many features may result in overfitting
+(C) Too many features can introduce lot of errors
+(D) Too many features can prevent the model from generalizing well on unseen data
+Answer: B 
+3. What is one important drawback of PCA when it comes to how it reduces the features? (A) It randomly reduces the features
+(B) The reduced features are not easily understood by humans
+(C) It does not work well when there are a large number of features
+Answer: B
+
+
+

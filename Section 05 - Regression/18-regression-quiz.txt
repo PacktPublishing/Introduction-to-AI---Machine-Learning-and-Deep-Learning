@@ -1,0 +1,20 @@
+1. Can you use linear regression to fit a polynomial function?
+(A) No, polynomial function is non linear, so it cannot be used
+(B) Yes, by introducing higher order variables using feature engineering
+Answer: B 
+2. Regression can only be used for producing numeric results and not for categorical results.
+(A) True
+(B) False
+Answer: B 
+3. The likelihood of a person clicking on an ad is determined by the relevance of the ad to the user’s query, the content, the length of the ad etc. What type of regression can be used to determine this?
+(A) Linear
+(B) Logistic
+Answer: B 
+4. The price of a used car is determined by factors such as age, make, model and number of accidents. What type of regression can be used to predict this?
+(A) Linear
+(B) Logistic
+Answer: A 
+5. The success of a movie at the box office is determined by factors such as the theme, story, actors, director. What type of regression can be used to predict this?
+(A) Linear
+(B) Logistic
+Answer: B

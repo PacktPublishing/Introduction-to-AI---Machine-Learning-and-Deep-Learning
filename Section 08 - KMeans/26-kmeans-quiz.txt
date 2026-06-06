@@ -1,0 +1,30 @@
+1.  How does KMeans decide on how many clusters to create?
+(A) It doesn’t.  It is supplied as a hyper parameter
+(B) The algorithm decides this using w, b parameters
+(C) The number of clusters ultimately depends on the data
+(D) K is the number that is the output of the K Means algorithm 
+Answer: A 
+2.  KMeans requires labeled data for training
+(A) True
+(B) False
+Answer: B 
+3. An interesting application of KMeans is in image compression. Consider an image of 128 x 128 pixels where each pixel can take one of 256 values. So the total memory needed for an image is ___ bits.
+(A) 4,194,304 bits
+(B) 65536 bits
+(C) 4096 bits
+(D) 1,048,576 bits
+Answer: A 
+4.  An interesting application of KMeans is in image compression. Consider an image of 128 x 128 pixels where each pixel can take one of 256 values. Let’s say we apply KMeans to find only 16 clusters in the image. This means each pixel in the image can take on only one of ____ possible values instead of ______.
+(A) 128, 256
+(B) 16, 128
+(C) 16, 256
+(D) 16, 1024
+Answer: C 
+5. An interesting application of KMeans is in image compression. Consider an image of 128 x 128 pixels where each pixel can take one of 256 values. Let’s say we apply KMeans to find only 16 clusters in the image. Then the total memory needed for the image is _____ bits. (A) 1,048,576
+(B) 512,000
+(C) 262,144
+(D) 1,024,00
+Answer: C
+
+
+
